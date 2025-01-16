@@ -21,3 +21,5 @@ def part2():
         b += i*sim_score
 
     return b 
+
+print(part2())
